@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         MyFreeFarm Helper
-// @namespace    https://github.com/TheRealHypR/myfreefarm-userscripts
-// @homepageURL  https://github.com/TheRealHypR/myfreefarm-userscripts/
+// @namespace    therealhypr-myfreefarm-helper
 // @updateURL    https://github.com/TheRealHypR/myfreefarm-userscripts/raw/master/myfreefarm-helper.user.js
 // @downloadURL  https://github.com/TheRealHypR/myfreefarm-userscripts/raw/master/myfreefarm-helper.user.js
 // @version      0.1
