@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         MyFreeFarm Server Selector
 // @namespace    therealhypr-myfreefarm-server-selector
-// @updateURL    https://github.com/TheRealHypR/myfreefarm-userscripts/raw/master/myfreefarm-server-selector.user.js
-// @downloadURL  https://github.com/TheRealHypR/myfreefarm-userscripts/raw/master/myfreefarm-server-selector.user.js
+// @updateURL    https://github.com/TheRealHypR/myfreefarm-userscripts/raw/main/myfreefarm-server-selector.user.js
+// @downloadURL  https://github.com/TheRealHypR/myfreefarm-userscripts/raw/main/myfreefarm-server-selector.user.js
+// @icon         https://github.com/TheRealHypR/myfreefarm-userscripts/raw/main/farming.png
 // @version      1.0
 // @description  a script to always select a certain server
 // @author       TheRealHypR
