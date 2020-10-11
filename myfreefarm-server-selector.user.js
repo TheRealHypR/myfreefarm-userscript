@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         MyFreeFarm Server Selector
-// @namespace    myfreefarm-server-selector
-// @homepageURL  https://github.com/TheRealHypR/myfreefarm-userscripts/
+// @namespace    therealhypr-myfreefarm-server-selector
 // @updateURL    https://github.com/TheRealHypR/myfreefarm-userscripts/raw/master/myfreefarm-server-selector.user.js
 // @downloadURL  https://github.com/TheRealHypR/myfreefarm-userscripts/raw/master/myfreefarm-server-selector.user.js
 // @version      1.0
