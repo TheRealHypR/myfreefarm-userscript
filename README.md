@@ -1,2 +1,2 @@
 # myfreefarm-userscript
-A Script to help you with manual farming
+a collection of scripts to help you with manual farming
