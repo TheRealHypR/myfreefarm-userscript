@@ -7,7 +7,7 @@
 // @version      0.1
 // @description  a collection of scripts to help you play myfreefarm
 // @author       TheRealHypR
-// @match        http*://s*.myfreefarm.de/*
+// @match        https://s*.myfreefarm.de/*
 // @grant        all
 // @require      https://code.jquery.com/jquery-3.6.1.min.js
 // @run-at       document-end
