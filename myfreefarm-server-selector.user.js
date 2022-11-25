@@ -9,7 +9,7 @@
 // @author       TheRealHypR
 // @match        https://www.myfreefarm.de/*
 // @grant        all
-// @require      http://code.jquery.com/jquery-3.5.1.min.js
+// @require      https://code.jquery.com/jquery-3.6.1.min.js
 // @run-at       document-end
 // ==/UserScript==
 
