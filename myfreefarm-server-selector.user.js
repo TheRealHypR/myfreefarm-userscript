@@ -8,8 +8,8 @@
 // @description  a script to always select a certain server
 // @author       TheRealHypR
 // @match        https://www.myfreefarm.de/*
-// @grant        all
-// @require      https://code.jquery.com/jquery-3.6.1.min.js
+// @grant        unsafeWindow
+// @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js
 // @run-at       document-end
 // ==/UserScript==
 
