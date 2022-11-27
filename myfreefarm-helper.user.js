@@ -8,8 +8,8 @@
 // @description  a collection of scripts to help you play myfreefarm
 // @author       TheRealHypR
 // @match        https://s*.myfreefarm.de/*
-// @grant        all
-// @require      https://code.jquery.com/jquery-3.6.1.min.js
+// @grant        unsafeWindow
+// @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js
 // @run-at       document-end
 // ==/UserScript==
 
